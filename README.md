@@ -26,9 +26,6 @@ Selected optimal K based on accuracy
 Accuracy score
 Confusion matrix (if included)
 Performance comparison across different K values
-📈 Results
-✅ Best K value: (update from your notebook)
-✅ Achieved accuracy: (update your result here)
 
 The model performance improves with optimal K selection, balancing bias and variance.
 
